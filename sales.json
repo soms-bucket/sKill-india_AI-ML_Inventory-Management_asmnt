@@ -1,0 +1,18 @@
+{
+ "1": {
+  "Billing Time": "Mon Sep  6 12:42:26 2021",
+  "Customer Name": "tokio",
+  "Product Id": "1160",
+  "Total purchase": "2 Fortune Mustard Oil",
+  "Price of Each Product": "118.0",
+  "Bill Amount": "236.0 Rs."
+ },
+ "2": {
+  "Billing Time": "Mon Sep  6 21:45:19 2021",
+  "Customer Name": "loki",
+  "Product Id": "1350",
+  "Total purchase": "2 Red Bull Energy Drinks",
+  "Price of Each Product": "189.0",
+  "Bill Amount": "378.0 Rs."
+ }
+}

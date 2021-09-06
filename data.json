@@ -1,0 +1,219 @@
+{
+ "1110": {
+  "Name": "Salt",
+  "Brand": "Tata",
+  "Price": 25.0,
+  "Weight": "1.0 kg",
+  "Quantity": 89
+ },
+ "1120": {
+  "Name": "Butter",
+  "Brand": "Amul",
+  "Price": 40.0,
+  "Weight": "50.0 gm",
+  "Quantity": 45
+ },
+ "1130": {
+  "Name": "Noodles",
+  "Brand": "Nestle",
+  "Price": 12.0,
+  "Weight": "150.0 gm",
+  "Quantity": 80
+ },
+ "1140": {
+  "Name": "Tooth Paste",
+  "Brand": "Close Up",
+  "Price": 66.0,
+  "Weight": "300.0 gm",
+  "Quantity": 56
+ },
+ "1150": {
+  "Name": "Dog Food",
+  "Brand": "Pedigree",
+  "Price": 2099.0,
+  "Weight": "3.0 kg",
+  "Quantity": 55
+ },
+ "1160": {
+  "Name": "Sanitizer",
+  "Brand": "Life Boy",
+  "Price": 299.0,
+  "Weight": "500.0 ml",
+  "Quantity": 12
+ },
+ "1170": {
+  "Name": "Ketchup",
+  "Brand": "Kissan",
+  "Price": 60.0,
+  "Weight": "500.0 ml",
+  "Quantity": 22
+ },
+ "1180": {
+  "Name": "Snacks",
+  "Brand": "Kurkure",
+  "Price": 10.0,
+  "Weight": "25.0 gm",
+  "Quantity": 64
+ },
+ "1190": {
+  "Name": "Honey",
+  "Brand": "Dabar",
+  "Price": 99.0,
+  "Weight": "250.0 ml",
+  "Quantity": 38
+ },
+ "1200": {
+  "Name": "Fruit Jam",
+  "Brand": "Kissan",
+  "Price": 58.0,
+  "Weight": "150.0 gm",
+  "Quantity": 89
+ },
+ "1210": {
+  "Name": "Snacks",
+  "Brand": "Lays",
+  "Price": 10.0,
+  "Weight": "20.0 gm",
+  "Quantity": 203
+ },
+ "1220": {
+  "Name": "Cake",
+  "Brand": "Bitania",
+  "Price": 10.0,
+  "Weight": "30.0 gm",
+  "Quantity": 21
+ },
+ "1230": {
+  "Name": "Chocolate",
+  "Brand": "Dairy Milk",
+  "Price": 60.0,
+  "Weight": "250.0 gm",
+  "Quantity": 77
+ },
+ "1240": {
+  "Name": "Hair Oil",
+  "Brand": "Amand Oil",
+  "Price": 200.0,
+  "Weight": "500.0 ml",
+  "Quantity": 100
+ },
+ "1250": {
+  "Name": "Shoap",
+  "Brand": "Vivel",
+  "Price": 25.0,
+  "Weight": "25.0 gm",
+  "Quantity": 63
+ },
+ "1260": {
+  "Name": "Body Wash",
+  "Brand": "Fiama",
+  "Price": 156.0,
+  "Weight": "250.0 ml",
+  "Quantity": 46
+ },
+ "1270": {
+  "Name": "Chocolate",
+  "Brand": "Kinder Joy",
+  "Price": 40.0,
+  "Weight": "18.0 gm",
+  "Quantity": 230
+ },
+ "1280": {
+  "Name": "Lufa",
+  "Brand": "Lux",
+  "Price": 56.0,
+  "Weight": "10.0 gm",
+  "Quantity": 44
+ },
+ "1290": {
+  "Name": "Tea Packet",
+  "Brand": "Red Lable",
+  "Price": 100.0,
+  "Weight": "250.0 gm",
+  "Quantity": 120
+ },
+ "1300": {
+  "Name": "Energy Drinks",
+  "Brand": "String",
+  "Price": 30.0,
+  "Weight": "100.0 ml",
+  "Quantity": 78
+ },
+ "1310": {
+  "Name": "Fruit Juice",
+  "Brand": "Kissan",
+  "Price": 100.0,
+  "Weight": "250.0 ml",
+  "Quantity": 85
+ },
+ "1320": {
+  "Name": "Mustard Oil",
+  "Brand": "Fortune",
+  "Price": 118.0,
+  "Weight": "1.0 lit",
+  "Quantity": 19
+ },
+ "1330": {
+  "Name": "Cold Drinks",
+  "Brand": "Thumbs Up",
+  "Price": 60.0,
+  "Weight": "1.0 lit",
+  "Quantity": 456
+ },
+ "1340": {
+  "Name": "Green Tea",
+  "Brand": "Lipton",
+  "Price": 299.0,
+  "Weight": "250.0 gm",
+  "Quantity": 56
+ },
+ "1350": {
+  "Name": "Energy Drinks",
+  "Brand": "Red Bull",
+  "Price": 189.0,
+  "Weight": "100.0 ml",
+  "Quantity": 41
+ },
+ "1360": {
+  "Name": "Ketchup",
+  "Brand": "Kissan",
+  "Price": 49.0,
+  "Weight": "250.0 ml",
+  "Quantity": 92
+ },
+ "1370": {
+  "Name": "Hand Wash",
+  "Brand": "Detol",
+  "Price": 149.0,
+  "Weight": "250.0 ml",
+  "Quantity": 12
+ },
+ "1380": {
+  "Name": "Face Mask",
+  "Brand": "Amoya",
+  "Price": 40.0,
+  "Weight": "2.0 gm",
+  "Quantity": 99
+ },
+ "1390": {
+  "Name": "Sunscreen",
+  "Brand": "Lotus",
+  "Price": 360.0,
+  "Weight": "350.0 ml",
+  "Quantity": 66
+ },
+ "1400": {
+  "Name": "Snacks",
+  "Brand": "Bingo",
+  "Price": 10.0,
+  "Weight": "15.0 gm",
+  "Quantity": 45
+ },
+ "1410": {
+  "Name": "Face Wash",
+  "Brand": "The Man",
+  "Price": 300.0,
+  "Weight": "100.0 ml",
+  "Quantity": 23
+ }
+}
